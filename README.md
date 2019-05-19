@@ -5,6 +5,8 @@
  
 ### 工具类
 正则宝典（开发中）
+-> https://sharecuts.cn/shortcut/1670
 
 ### 娱乐类
 YouTube后台播放
+-> https://sharecuts.cn/shortcut/1684
