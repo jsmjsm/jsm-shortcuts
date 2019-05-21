@@ -10,3 +10,7 @@
 ### 娱乐类
 YouTube后台播放
 -> https://sharecuts.cn/shortcut/1684
+
+### 生活类
+早报·ifanr
+-> https://sharecuts.cn/shortcut/1747
