@@ -14,3 +14,6 @@ YouTube后台播放
 ### 生活类
 早报·ifanr
 -> https://sharecuts.cn/shortcut/1747
+
+VICE中国
+-> https://sharecuts.cn/shortcut/1790
