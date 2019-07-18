@@ -6,7 +6,7 @@
 ### 工具类
 正则宝典（开发中）
 -> https://sharecuts.cn/shortcut/1670
-快速添加生活常用电话
+ 快速添加生活常用电话
 -> https://sharecuts.cn/shortcut/2567
 
 ### 娱乐类
